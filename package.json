@@ -1,0 +1,23 @@
+{
+  "name": "librdkafka-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icebob/librdkafka-build.git"
+  },
+  "keywords": [],
+  "author": "Icebob <mereg.norbert@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icebob/librdkafka-build/issues"
+  },
+  "homepage": "https://github.com/icebob/librdkafka-build#readme",
+  "dependencies": {
+    "node-rdkafka": "^2.3.1"
+  }
+}
